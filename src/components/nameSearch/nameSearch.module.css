@@ -1,0 +1,15 @@
+.nameSearch{
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+}
+ @media(min-width:750px){
+     .nameSearch{
+                 position: absolute;
+                 right: 30px;
+                 top: 30px;
+                 width: auto;
+                 margin-left: auto;
+                 margin-right: 10%;
+                }
+ }
