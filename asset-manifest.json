@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ignos95/rick-and-morty.git/static/css/main.af8ef545.chunk.css",
+    "main.js": "/ignos95/rick-and-morty.git/static/js/main.ae5c3aff.chunk.js",
+    "main.js.map": "/ignos95/rick-and-morty.git/static/js/main.ae5c3aff.chunk.js.map",
+    "runtime-main.js": "/ignos95/rick-and-morty.git/static/js/runtime-main.5c5d6cfa.js",
+    "runtime-main.js.map": "/ignos95/rick-and-morty.git/static/js/runtime-main.5c5d6cfa.js.map",
+    "static/css/2.e9caa6a3.chunk.css": "/ignos95/rick-and-morty.git/static/css/2.e9caa6a3.chunk.css",
+    "static/js/2.e868b25d.chunk.js": "/ignos95/rick-and-morty.git/static/js/2.e868b25d.chunk.js",
+    "static/js/2.e868b25d.chunk.js.map": "/ignos95/rick-and-morty.git/static/js/2.e868b25d.chunk.js.map",
+    "index.html": "/ignos95/rick-and-morty.git/index.html",
+    "precache-manifest.823ec8830064523e4eac78d8c56c2900.js": "/ignos95/rick-and-morty.git/precache-manifest.823ec8830064523e4eac78d8c56c2900.js",
+    "service-worker.js": "/ignos95/rick-and-morty.git/service-worker.js",
+    "static/css/2.e9caa6a3.chunk.css.map": "/ignos95/rick-and-morty.git/static/css/2.e9caa6a3.chunk.css.map",
+    "static/css/main.af8ef545.chunk.css.map": "/ignos95/rick-and-morty.git/static/css/main.af8ef545.chunk.css.map",
+    "static/js/2.e868b25d.chunk.js.LICENSE.txt": "/ignos95/rick-and-morty.git/static/js/2.e868b25d.chunk.js.LICENSE.txt",
+    "static/media/Rick_and_Morty_logo.png": "/ignos95/rick-and-morty.git/static/media/Rick_and_Morty_logo.42d6efdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c5d6cfa.js",
+    "static/css/2.e9caa6a3.chunk.css",
+    "static/js/2.e868b25d.chunk.js",
+    "static/css/main.af8ef545.chunk.css",
+    "static/js/main.ae5c3aff.chunk.js"
+  ]
+}
