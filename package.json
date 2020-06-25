@@ -1,6 +1,6 @@
 {
   "name": "rick-and-morty",
-  "homepage": "https://github.com/ignos95/rick-and-morty.git",
+  "homepage": "https://ignos95.github.io/rick-and-morty/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
